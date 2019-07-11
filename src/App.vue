@@ -18,14 +18,15 @@ export default {
 @import 'src/scss/custom.scss';
  @import '~bootstrap/scss/bootstrap.scss';
  @import '~bootstrap-vue/src/index.scss';
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap');
 #app {
   // font-family: 'Avenir', Helvetica, Arial, sans-serif;
-font-family: 'Lato', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+font-family: 'Open Sans', sans-serif;
+  // -webkit-font-smoothing: antialiased;
+  // -moz-osx-font-smoothing: grayscale;
   text-align: center;
   background-color: #f2f4f8;
   color: #2c3e50;
+  font-weight: normal;
 }
 </style>

@@ -35,6 +35,10 @@ export default {
 </script>
 
 <style lang="scss" >
+.main-menu{
+  
+    font-weight: 600;
+    font-size: 14px;
 .bg-info{
     background-color: #FFFFFF !important;
 }
@@ -74,5 +78,7 @@ export default {
   &.center{
     margin:0 auto;
   }
+}
+
 }
 </style>

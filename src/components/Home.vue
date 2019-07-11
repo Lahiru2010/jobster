@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="content">
         <Menu></Menu>
     </div>
 </template>
@@ -14,6 +14,8 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+.content{
+    min-height: 1000px;
+}
 </style>
