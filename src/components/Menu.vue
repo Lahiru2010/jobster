@@ -19,7 +19,7 @@
 
 
       <b-nav-item href="#" class="highlight">Post job free</b-nav-item>
-      <b-nav-item href="#">Sign in</b-nav-item>
+      <b-nav-item href="#" class="nav-btn">Sign in</b-nav-item>
 
       </b-navbar-nav>
     </b-collapse>
@@ -37,14 +37,13 @@ export default {
 <style lang="scss" >
 .main-menu{
   
-    font-weight: 600;
+    // font-weight: 600;
     font-size: 14px;
-.bg-info{
-    background-color: #FFFFFF !important;
-}
 
 .navbar-nav{
   .nav-item{
+    
+    line-height: 18px;
     a{
           padding: 0 10px;
       .icon{
@@ -62,10 +61,10 @@ export default {
     }
 
     &.highlight{
-          background-color: #fd3272;
+          background-color: #00639f;
     border-radius: 22px;
     padding: 0 10px;
-    padding: 4px 10px 6px 10px;
+    padding: 4px 4px 5px 4px;
     color: #ffffff;
     margin-right: 6px;
 
@@ -73,6 +72,10 @@ export default {
       
     color: #ffffff;
     }
+    }
+
+    &.nav-btn{
+      padding: 4px 0 5px 0;
     }
   }
   &.center{
