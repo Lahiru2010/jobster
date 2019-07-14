@@ -24,7 +24,7 @@ export default {
 font-family: 'Open Sans', sans-serif;
   // -webkit-font-smoothing: antialiased;
   // -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   background-color: #f2f4f8;
   color: #2c3e50;
   font-weight: normal;
