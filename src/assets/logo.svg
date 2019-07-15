@@ -70,7 +70,8 @@
        y1="304.01181"
        x2="30.87409"
        y2="302.681"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.84995002)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -79,9 +80,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="35.203575"
-     inkscape:cy="25.248998"
+     inkscape:zoom="1.979899"
+     inkscape:cx="94.430956"
+     inkscape:cy="70.026169"
      inkscape:document-units="mm"
      inkscape:current-layer="text979"
      showgrid="false"
@@ -118,17 +119,17 @@
         <text
            id="text975"
            y="304.13559"
-           x="15.225776"
+           x="14.375826"
            style="font-style:normal;font-weight:normal;font-size:6.20360231px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient861);fill-opacity:1;stroke:none;stroke-width:0.15509006"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Antipasto Pro';-inkscape-font-specification:'Antipasto Pro Bold';fill:url(#linearGradient861);fill-opacity:1;stroke-width:0.15509006"
              y="304.13559"
-             x="15.225776"
+             x="14.375826"
              id="tspan973"
              sodipodi:role="line">jobbly</tspan></text>
         <g
            style="fill:url(#linearGradient983);fill-opacity:1"
-           transform="matrix(0.46140768,0,0,0.46140768,-341.75529,123.15961)"
+           transform="matrix(0.46140768,0,0,0.46140768,-342.60524,123.15961)"
            id="g979">
           <path
              inkscape:connector-curvature="0"
